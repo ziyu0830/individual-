@@ -1,0 +1,93 @@
+{
+  "id": "3240969",
+  "name": "iconfont1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "27890948",
+      "name": "生活休闲",
+      "font_class": "shenghuoxiuxian",
+      "unicode": "100bb",
+      "unicode_decimal": 65723
+    },
+    {
+      "icon_id": "8482404",
+      "name": "招生计划",
+      "font_class": "zhaoshengjihua",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8740377",
+      "name": "学生风采",
+      "font_class": "xueshengfengcai",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "9209861",
+      "name": "学生风采",
+      "font_class": "xueshengfengcai1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "10509498",
+      "name": "校友会",
+      "font_class": "xiaoyouhui",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "10993135",
+      "name": "录取查询",
+      "font_class": "luquchaxun",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "14272820",
+      "name": "招生计划管理",
+      "font_class": "zhaoshengjihuaguanli",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "14468847",
+      "name": "招生简章",
+      "font_class": "zhangshangkaoyanh5iconmen-02",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "16395827",
+      "name": "录取查询",
+      "font_class": "luquchaxun1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8767303",
+      "name": "手机",
+      "font_class": "shouji1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "28193208",
+      "name": "电脑",
+      "font_class": "diannao",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "28193212",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    }
+  ]
+}
