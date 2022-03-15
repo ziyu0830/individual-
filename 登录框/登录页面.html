@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录页面练习</title> 
+     <link rel="stylesheet" type="text/css" href="css/iconfont.css">
+     <link rel="stylesheet" type="text/css" href="iconfont/iconfont.css">
+    <link rel="stylesheet" type="text/css" href="css/login.css">
+
+
+
+</head>
+ 
+<body class="clearfix">
+    
+    <div class="login">
+        <div class="logo">
+            <img src="img/logo.jpg" alt="" class="logoimg"  >
+        </div>
+        <div class="titleshadow">
+            <p class="title">广工华立学院系统</p>
+        </div>
+        <div class="loginshadow">
+            <form>
+
+                <div class="loginshadow1"> 
+                    <div id="user" class="userlogin">
+                        <i class="iconfont icon-wo iconlogin"></i>
+                    <input type="text" placeholder="登录账号" class="input1" required>
+                    <br>
+                    <i   class="iconfont icon-suo iconlogin"></i>
+                    <input type="password" placeholder="密码" class="input2" required minlength="6" maxlength="9">
+                    </div>
+                    
+                    <div id="phone" class="phonelogin">
+                        <div class="input">
+                            <div>
+                                <i class="iconfont icon-shouji iconlogin"></i>
+                                <input id="username" name="name" type="text" placeholder="手机号" class="input3" required="" autocomplete="on">
+                            </div>
+                            <div>
+                                <i class="iconfont icon-yanzhengma iconlogin"></i>
+                                <input class="input4" style="width: 130px;" name="yzpassword" type="password"  placeholder="验证码" required="" autocomplete="on">
+                                <button class="get" type="button">点击获取</button>
+                            </div>
+                        </div>
+                  
+
+                </div>
+                <br>
+                <a class="forget" href="javascript:forget();">忘记密码</a>
+                <br>
+                <input type="submit" id="submit" value="登录" class="input3">
+            </form>
+            <div class="tab">
+               
+                    <a href="javascript:changeLogin();">
+                        <i  id="tabuser" class="iconfont icon-diannao"  ></i></a>
+                         <a href="javascript:changeLogin();">
+                            <i id="tabphone" class="iconfont icon-shouji1 "></i></a> 
+                 
+                <span class="tabregister">没有账号<a class="register"  href="#">立即注册</a></span>
+            </div>
+        </div>
+
+
+
+    </div>
+
+</body>
+<script src="Untitled-1.js"></script>
+
+</html>
